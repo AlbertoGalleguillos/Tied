@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.title{
+    font-family: 'Faster One', cursive;
+    font-size: 13em;
+    color: white;
+    /*padding-top: 1em;*/
+}
+
+.background {
+    background-image: url("../img/night.jpeg");
+    height: 100%;
+    /*opacity: 0.5;*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media only screen and (min-width: 993px) {
+    .container {
+        width:80%;
+    }
+}
+
+.container{
+    max-width: 2000px;
+}
