@@ -19,9 +19,9 @@
         <h3 class="white-text">¿ Quiénes Somos ?</h3>
         <h5 class="white-text">Somos personas que no buscan saber quien eres, sino, quien puedes llegar a ser.</h5>
         <h3 class="white-text">¿ Qué buscamos ?</h3>
-            <h5 class="white-text">Buscamos Facilitar tanto a los candidatos y empresas el proceso de encontrar emple y colaboradores de acuerdo a las necesidades de ambos.</b></h5>
+            <h5 class="white-text">Buscamos Facilitar tanto a los candidatos y empresas el proceso de encontrar empleo y colaboradores de acuerdo a las necesidades de ambos.</b></h5>
             <h5 class="white-text">Ofrecemos un servicio integral, basado en metodologías enfocadas en estudios científicos acerca del comportamiento humano,
-                para poder encontrar las fortalezas de cada una dentro de sus distintas personalide¿ades y su capacidad de resolver actividades
+                para poder encontrar las fortalezas de cada una dentro de sus distintas personalidades y su capacidad de resolver actividades
                 que emulan tareas específicas de un día laboral, de acuerdo al perfil buscado</h5>
                 <br><br><br>
       </div>
